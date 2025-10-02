@@ -1,6 +1,6 @@
 # Innovate With Ballerina 2025 - Submissions
 
-This repository contains the list of project submissions for Innovate With Ballerina 2025.
+This repository lists the official submissions for Innovate With Ballerina 2025, including each team’s name, open-source GitHub repository, and a YouTube demo video showcasing their project.
 
 ## Team Submissions
 
